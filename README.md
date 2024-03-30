@@ -1,4 +1,4 @@
-# customqueries01
+# API-Custom-Queries1
 - write a Spring Boot application with the necessary dependencies that:
     - has an entity `Flight` with the following columns:
         - a primary key
