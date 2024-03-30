@@ -15,3 +15,5 @@
             - the default status is `ON_TIME`
         - for retrieving all the flights in the db
 - test the 2 endpoints with `Postman`
+ 
+**Also added CRUD**
